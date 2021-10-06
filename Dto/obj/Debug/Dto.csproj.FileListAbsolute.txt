@@ -1,0 +1,15 @@
+C:\Users\!!!Naamotek\Desktop\פרוייקט גמר\פרוייקט API לפי מישהי אחרת\Dto\bin\Debug\Dto.dll
+C:\Users\!!!Naamotek\Desktop\פרוייקט גמר\פרוייקט API לפי מישהי אחרת\Dto\bin\Debug\Dto.pdb
+C:\Users\!!!Naamotek\Desktop\פרוייקט גמר\פרוייקט API לפי מישהי אחרת\Dto\bin\Debug\DAL.dll
+C:\Users\!!!Naamotek\Desktop\פרוייקט גמר\פרוייקט API לפי מישהי אחרת\Dto\bin\Debug\DAL.pdb
+C:\Users\!!!Naamotek\Desktop\פרוייקט גמר\פרוייקט API לפי מישהי אחרת\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+C:\Users\!!!Naamotek\Desktop\פרוייקט גמר\פרוייקט API לפי מישהי אחרת\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\!!!Naamotek\Desktop\פרוייקט גמר\פרוייקט API לפי מישהי אחרת\Dto\obj\Debug\Dto.csproj.CopyComplete
+C:\Users\!!!Naamotek\Desktop\פרוייקט גמר\פרוייקט API לפי מישהי אחרת\Dto\obj\Debug\Dto.dll
+C:\Users\!!!Naamotek\Desktop\פרוייקט גמר\פרוייקט API לפי מישהי אחרת\Dto\obj\Debug\Dto.pdb
+C:\Users\!!!Naamotek\Desktop\פרוייקט גמר\פרוייקט API לפי מישהי אחרת\Dto\bin\Debug\Dto.dll.config
+C:\Users\!!!Naamotek\Desktop\פרוייקט גמר\פרוייקט API לפי מישהי אחרת\Dto\bin\Debug\EntityFramework.dll
+C:\Users\!!!Naamotek\Desktop\פרוייקט גמר\פרוייקט API לפי מישהי אחרת\Dto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\!!!Naamotek\Desktop\פרוייקט גמר\פרוייקט API לפי מישהי אחרת\Dto\bin\Debug\DAL.dll.config
+C:\Users\!!!Naamotek\Desktop\פרוייקט גמר\פרוייקט API לפי מישהי אחרת\Dto\bin\Debug\EntityFramework.xml
+C:\Users\!!!Naamotek\Desktop\פרוייקט גמר\פרוייקט API לפי מישהי אחרת\Dto\bin\Debug\EntityFramework.SqlServer.xml
